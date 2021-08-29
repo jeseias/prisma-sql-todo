@@ -21,8 +21,10 @@ Basically a **CRUD** backend application
 
 ## What was learnt
 
-- Middleware
+- Middlewares
 - Request/Response
+- Error handling
+- UseCases
 - Data modeling with prisma (So wonderful)
 
 Built this application just to shaper my backend skills
