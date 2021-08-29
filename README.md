@@ -27,4 +27,4 @@ Basically a **CRUD** backend application
 - UseCases
 - Data modeling with prisma (So wonderful)
 
-Built this application just to shaper my backend skills
+Built this application just to sharpen my backend skills
